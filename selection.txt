@@ -1,0 +1,661 @@
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=16:18
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=19:23
+3	froid	froid	NOUN	_	Gender=Masc|Number=Sing	2	obj:lvc	_	TokenRange=24:29
+4	dehors	dehors	ADV	_	_	2	advmod	_	SpacesAfter=\r\n|TokenRange=30:36
+
+1	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	SpaceAfter=No|TokenRange=38:40
+2	étais	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=40:45
+3	à	à	ADP	_	_	4	case	_	TokenRange=46:47
+4	Bordeaux	Bordeaux	PROPN	_	_	2	obl:arg	_	TokenRange=48:56
+5	toi	toi	PRON	_	Emph=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	TokenRange=57:60
+6	aujourd'hui	aujourd'hui	ADV	_	_	2	advmod	_	SpacesAfter=\r\n|TokenRange=61:72
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=89:91
+2	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=92:99
+3	2	2	NUM	_	Number=Plur	4	nummod	_	TokenRange=100:101
+4	degrés	degré	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	TokenRange=102:108
+5	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	TokenRange=109:111
+6	matin	matin	NOUN	_	Gender=Masc|Number=Sing	2	obl:mod	_	SpacesAfter=\r\n|TokenRange=112:117
+
+1	mais	mais	CCONJ	_	_	4	cc	_	TokenRange=119:123
+2	après	après	ADV	_	_	4	advmod	_	TokenRange=124:129
+3	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=130:132
+4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=133:137
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	TokenRange=138:141
+6	chaud	chaud	ADJ	_	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\r\n|TokenRange=142:147
+
+1	attends	attendre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=249:256
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TokenRange=257:259
+3	te	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	obj	_	TokenRange=260:262
+4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	TokenRange=263:266
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	SpacesAfter=\r\n|TokenRange=267:270
+
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	TokenRange=272:274
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=275:279
+3	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	2	obj	_	TokenRange=280:284
+4	alors	alors	ADV	_	_	2	advmod	_	SpacesAfter=\r\n|TokenRange=285:290
+
+1	et	et	CCONJ	_	_	4	cc	_	TokenRange=500:502
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=503:505
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=505:507
+4	dis	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=508:511
+5	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=512:514
+6	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	TokenRange=515:520
+7	dedans	dedans	ADV	_	_	6	advmod	_	SpacesAfter=\r\n|TokenRange=521:527
+
+1	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	TokenRange=529:533
+2	devez	devoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=534:539
+3	avoir	avoir	VERB	_	VerbForm=Inf	2	xcomp	_	TokenRange=540:545
+4	froid	froid	NOUN	_	Gender=Masc|Number=Sing	3	obj:lvc	_	TokenRange=546:551
+5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	3	obj	_	SpacesAfter=\r\n|TokenRange=552:556
+
+1	t'as	t'as	ADV	_	_	2	advmod	_	TokenRange=643:647
+2	mis	mettre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=648:651
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=652:654
+4	chauffage	chauffage	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\r\n|TokenRange=655:664
+
+1	non	non	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=666:669
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	TokenRange=670:672
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=673:675
+4	y'	ye	PRON	_	Emph=No|Person=3|PronType=Prs	5	expl:comp	_	SpaceAfter=No|TokenRange=676:678
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=678:679
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=680:682
+7	chauffage	chauffage	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	SpacesAfter=\r\n|TokenRange=683:692
+
+1	et	et	CCONJ	_	_	7	cc	_	TokenRange=967:969
+2	alors	alors	ADV	_	_	7	advmod	_	TokenRange=970:975
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=976:980
+4	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=981:983
+5	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=984:986
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	TokenRange=986:987
+7	demandé	demander	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=988:995
+8	à	à	ADP	_	_	9	case	_	TokenRange=996:997
+9	tonton	tonton	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	SpacesAfter=\r\n|TokenRange=998:1004
+
+1	maman	maman	NOUN	_	Gender=Masc|Number=Sing	4	discourse	_	TokenRange=1051:1056
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	SpaceAfter=No|TokenRange=1057:1059
+3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux:pass	_	TokenRange=1059:1064
+4	prévu	prévoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpacesAfter=\r\n|TokenRange=1065:1070
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=1169:1171
+2	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	3	obj	_	TokenRange=1172:1176
+3	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1177:1184
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=1185:1188
+5	encore	encore	ADV	_	_	3	advmod	_	SpacesAfter=\r\n|TokenRange=1189:1195
+
+1	nous	nous	PRON	_	Emph=No|Number=Plur|Person=1|PronType=Prs	5	nsubj:pass	_	TokenRange=1685:1689
+2	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj:pass	_	TokenRange=1690:1692
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=1693:1696
+4	plus	plus	ADV	_	_	5	advmod	_	TokenRange=1697:1701
+5	invité	inviter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=1702:1708
+6	depuis	depuis	ADP	_	_	8	case	_	TokenRange=1709:1715
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=1716:1718
+8	moment	moment	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	TokenRange=1719:1725
+9	nous	nous	PRON	_	Emph=No|Number=Plur|Person=1|PronType=Prs	5	obl:mod	_	SpacesAfter=\r\n|TokenRange=1726:1730
+
+1	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=1732:1734
+2	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1735:1739
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=1740:1743
+4	personne	personne	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	TokenRange=1744:1752
+5	de	de	ADP	_	_	6	case	_	TokenRange=1753:1755
+6	plus	plus	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=1756:1760
+
+1	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=1762:1764
+2	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1765:1769
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	TokenRange=1770:1773
+4	leur	eux	PRON	_	Emph=No|Number=Plur|Person=3|PronType=Prs	5	iobj	_	TokenRange=1774:1778
+5	donner	donner	VERB	_	VerbForm=Inf	2	xcomp	_	TokenRange=1779:1785
+6	trop	trop	ADV	_	_	5	advmod	_	SpacesAfter=\r\n|TokenRange=1786:1790
+
+1	comment	comment	ADV	_	_	5	advmod	_	TokenRange=2544:2551
+2	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	TokenRange=2552:2554
+3	s'	soi	PRON	_	Emph=No|Person=3|PronType=Prs|Reflex=Yes	5	obj	_	SpaceAfter=No|TokenRange=2555:2557
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	TokenRange=2557:2560
+5	rencontré	rencontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\r\n|TokenRange=2561:2570
+
+1	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=2810:2814
+2	être	être	VERB	_	VerbForm=Inf	1	cop	_	TokenRange=2815:2819
+3	oui	oui	ADV	_	_	5	advmod	_	TokenRange=2820:2823
+4	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=2824:2826
+5	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	TokenRange=2827:2831
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	SpacesAfter=\r\n|TokenRange=2832:2835
+
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=2944:2948
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	TokenRange=2949:2952
+3	allée	aller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=2953:2958
+4	travailler	travailler	VERB	_	VerbForm=Inf	3	xcomp	_	TokenRange=2959:2969
+5	à	à	ADP	_	_	6	case	_	TokenRange=2970:2971
+6	Bordeaux	Bordeaux	PROPN	_	_	4	obl:mod	_	TokenRange=2972:2980
+7	Monique	Monique	PROPN	_	_	6	flat:name	_	SpacesAfter=\r\n|TokenRange=2981:2988
+
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=3062:3066
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	TokenRange=3067:3070
+3	allée	aller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=3071:3076
+4	à	à	ADP	_	_	5	case	_	TokenRange=3077:3078
+5	Bordeaux	Bordeaux	PROPN	_	_	3	obl:arg	_	SpacesAfter=\r\n|TokenRange=3079:3087
+
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=3089:3091
+2	croyais	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=3092:3099
+3	que	que	SCONJ	_	_	5	mark	_	TokenRange=3100:3103
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No|TokenRange=3104:3106
+5	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	TokenRange=3106:3111
+6	à	à	ADP	_	_	7	case	_	TokenRange=3112:3113
+7	Arcachon	Arcachon	PROPN	_	_	5	obl:arg	_	SpacesAfter=\r\n|TokenRange=3114:3122
+
+1	mais	mais	CCONJ	_	_	3	cc	_	TokenRange=3124:3128
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=3129:3131
+3	disais	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=3132:3138
+4	Bordeaux	Bordeaux	PROPN	_	_	3	obj	_	TokenRange=3139:3147
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No|TokenRange=3148:3150
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=3150:3153
+7	moins	moins	ADV	_	_	8	advmod	_	TokenRange=3154:3159
+8	loin	loin	ADV	_	_	3	advmod	_	SpacesAfter=\r\n|TokenRange=3160:3164
+
+1	parce	parce	ADV	_	_	4	mark	_	TokenRange=3216:3221
+2	qu'	que	SCONJ	_	_	1	fixed	_	SpaceAfter=No|TokenRange=3222:3225
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=3225:3229
+4	allait	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=3230:3236
+5	à	à	ADP	_	_	6	case	_	TokenRange=3237:3238
+6	Morizès	Morizès	PROPN	_	_	4	obl:arg	_	TokenRange=3239:3246
+7	à	à	ADP	_	_	8	case	_	TokenRange=3247:3248
+8	Gironde	Gironde	PROPN	_	_	4	obl:mod	_	SpacesAfter=\r\n|TokenRange=3249:3256
+
+1	et	et	CCONJ	_	_	6	cc	_	TokenRange=3565:3567
+2	comment	comment	ADV	_	_	6	advmod	_	TokenRange=3568:3575
+3	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	TokenRange=3576:3578
+4	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=3579:3581
+5	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux:tense	_	TokenRange=3581:3583
+6	demandé	demander	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=3584:3591
+7	en	en	ADP	_	_	8	case	_	TokenRange=3592:3594
+8	mariage	mariage	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	SpacesAfter=\r\n|TokenRange=3595:3602
+
+1	non	non	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=3836:3839
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=3840:3842
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=3843:3847
+4	plus	plus	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=3848:3852
+5	où	où	PRON	_	PronType=Rel	3	ccomp	_	TokenRange=3853:3855
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No|TokenRange=3856:3858
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=3858:3861
+8	déjà	déjà	ADV	_	_	5	advmod	_	SpacesAfter=\r\n|TokenRange=3862:3866
+
+1	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	TokenRange=4238:4242
+2	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|TokenRange=4243:4245
+3	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=4245:4249
+4	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=4250:4254
+5	à	à	ADP	_	_	6	case	_	TokenRange=4255:4256
+6	Morizès	Morizès	PROPN	_	_	4	obl:arg	_	SpacesAfter=\r\n|TokenRange=4257:4264
+
+1	et	et	CCONJ	_	_	5	cc	_	TokenRange=4266:4268
+2	après	après	ADV	_	_	5	advmod	_	TokenRange=4269:4274
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=4275:4279
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	TokenRange=4280:4283
+5	venue	venir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=4284:4289
+6	habiter	habiter	VERB	_	VerbForm=Inf	5	xcomp	_	TokenRange=4290:4297
+7	à	à	ADP	_	_	9	case	_	TokenRange=4298:4299
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=4300:4302
+9	maison	maison	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	SpacesAfter=\r\n|TokenRange=4303:4309
+
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	TokenRange=4499:4501
+2	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	TokenRange=4502:4504
+3	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	4	iobj	_	TokenRange=4505:4507
+4	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=4508:4512
+5	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	4	obj	_	SpacesAfter=\r\n|TokenRange=4513:4517
+
+1	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=4659:4661
+2	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	3	iobj	_	TokenRange=4661:4663
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=4664:4666
+4	davantage	davantage	ADV	_	_	3	advmod	_	SpacesAfter=\r\n|TokenRange=4667:4676
+
+1	et	et	CCONJ	_	_	7	cc	_	TokenRange=5026:5028
+2	malheureusement	malheureusement	ADV	_	_	3	advmod	_	TokenRange=5029:5044
+3	voilà	voilà	VERB	_	_	7	discourse	_	TokenRange=5045:5050
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	TokenRange=5051:5053
+5	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	SpaceAfter=No|TokenRange=5054:5056
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	TokenRange=5056:5059
+7	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=5060:5065
+8	autrement	autrement	ADV	_	_	7	advmod	_	SpacesAfter=\r\n|TokenRange=5066:5075
+
+1	oui	oui	INTJ	_	_	3	discourse	_	TokenRange=5833:5836
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=5837:5839
+3	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=5840:5844
+4	pleins	plein	ADJ	_	Gender=Masc|Number=Plur	3	xcomp	_	TokenRange=5845:5851
+5	d'	de	ADP	_	_	6	case	_	SpaceAfter=No|TokenRange=5852:5854
+6	amis	ami	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	SpacesAfter=\r\n|TokenRange=5854:5858
+
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TokenRange=6369:6371
+2	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|TokenRange=6372:6374
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=6374:6376
+4	fais	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=6377:6381
+5	avant	avant	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=6382:6387
+
+1	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=6442:6444
+2	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	3	iobj	_	TokenRange=6444:6446
+3	faisais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=6447:6454
+4	mais	mais	CCONJ	_	_	7	cc	_	TokenRange=6455:6459
+5	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	TokenRange=6460:6462
+6	te	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	7	obj	_	TokenRange=6463:6465
+7	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=6466:6469
+8	à	à	ADP	_	_	9	case	_	TokenRange=6470:6471
+9	Morizès	Morizès	PROPN	_	_	7	obl:arg	_	SpacesAfter=\r\n|TokenRange=6472:6479
+
+1	oui	oui	INTJ	_	_	4	discourse	_	TokenRange=6481:6484
+2	mais	mais	CCONJ	_	_	1	cc	_	TokenRange=6485:6489
+3	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TokenRange=6490:6492
+4	faisais	faire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=6493:6500
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	TokenRange=6501:6504
+6	Morizès	Morizès	PROPN	_	_	4	obj	_	TokenRange=6505:6512
+7	Arcachon	Arcachon	PROPN	_	_	6	flat:name	_	TokenRange=6513:6521
+8	à	à	ADP	_	_	9	case	_	TokenRange=6522:6523
+9	vélo	vélo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\r\n|TokenRange=6524:6528
+
+1	voilà	voilà	VERB	_	_	6	discourse	_	TokenRange=6530:6535
+2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	TokenRange=6536:6538
+3	pauvre	pauvre	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	TokenRange=6539:6545
+4	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	6	iobj	_	SpaceAfter=No|TokenRange=6546:6548
+5	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	6	iobj	_	TokenRange=6548:6550
+6	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=6551:6555
+
+1	et	et	CCONJ	_	_	6	cc	_	TokenRange=6557:6559
+2	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	TokenRange=6560:6562
+3	mère	mère	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	TokenRange=6563:6567
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=6568:6571
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	TokenRange=6572:6575
+6	rentrée	rentrer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=6576:6583
+7	encore	encore	ADV	_	_	6	advmod	_	SpacesAfter=\r\n|TokenRange=6584:6590
+
+1	ok	ok	INTJ	_	_	6	discourse	_	TokenRange=6838:6840
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No|TokenRange=6841:6843
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=6843:6846
+4	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=6847:6849
+5	me	soi	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	expl:pv	_	TokenRange=6850:6852
+6	souviens	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6853:6861
+7	maintenant	maintenant	ADV	_	_	6	advmod	_	SpacesAfter=\r\n|TokenRange=6862:6872
+
+1	si	si	SCONJ	_	_	3	mark	_	TokenRange=6874:6876
+2	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=6877:6881
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6882:6885
+4	à	à	ADP	_	_	6	case	_	TokenRange=6886:6887
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=6888:6890
+6	maison	maison	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	SpacesAfter=\r\n|TokenRange=6891:6897
+
+1	attends	attendre	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	discourse	_	TokenRange=6981:6988
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=6989:6991
+3	ouvre	ouvrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6991:6996
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	TokenRange=6997:6999
+5	chat	chat	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	SpacesAfter=\r\n|TokenRange=7000:7004
+
+1	t'	toi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	iobj	_	SpaceAfter=No|TokenRange=7131:7133
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=7133:7135
+3	déjà	déjà	ADV	_	_	4	advmod	_	TokenRange=7136:7140
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=7141:7143
+5	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	TokenRange=7144:7147
+6	garage	garage	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\r\n|TokenRange=7148:7154
+
+1	et	et	CCONJ	_	_	7	cc	_	TokenRange=7339:7341
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No|TokenRange=7342:7344
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=7344:7347
+4	bien	bien	ADV	_	_	7	advmod	_	TokenRange=7348:7352
+5	alors	alors	ADV	_	_	7	advmod	_	TokenRange=7353:7358
+6	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	TokenRange=7359:7361
+7	verrais	voir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7362:7369
+8	demain	demain	ADV	_	_	7	advmod	_	SpacesAfter=\r\n|TokenRange=7370:7376
+
+1	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TokenRange=7629:7632
+2	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No|TokenRange=7633:7635
+3	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	4	iobj	_	TokenRange=7635:7637
+4	diront	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=7638:7644
+5	plus	plus	ADV	_	_	6	advmod	_	TokenRange=7645:7649
+6	demain	demain	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=7650:7656
+
+1	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7719:7723
+2	être	être	VERB	_	VerbForm=Inf	5	cop	_	TokenRange=7724:7728
+3	pour	pour	ADP	_	_	5	case	_	TokenRange=7729:7733
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|TokenRange=7734:7736
+5	anniversaire	anniversaire	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	TokenRange=7736:7748
+6	de	de	ADP	_	_	7	case	_	TokenRange=7749:7751
+7	Loïs	Loïs	PROPN	_	_	5	nmod	_	SpacesAfter=\r\n|TokenRange=7752:7756
+
+1	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7758:7762
+2	être	être	VERB	_	VerbForm=Inf	5	cop	_	TokenRange=7763:7767
+3	pour	pour	ADP	_	_	5	case	_	TokenRange=7768:7772
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|TokenRange=7773:7775
+5	anniversaire	anniversaire	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	TokenRange=7775:7787
+6	de	de	ADP	_	_	7	case	_	TokenRange=7788:7790
+7	Loïs	Loïs	PROPN	_	_	5	nmod	_	SpacesAfter=\r\n|TokenRange=7791:7795
+
+1	non	non	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=8165:8168
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=8169:8171
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8171:8173
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=8174:8177
+5	cours	cours	NOUN	_	Gender=Masc|Number=Sing	3	obj:lvc	_	TokenRange=8178:8183
+6	demain	demain	ADV	_	_	3	advmod	_	SpacesAfter=\r\n|TokenRange=8184:8190
+
+1	et	et	CCONJ	_	_	7	cc	_	TokenRange=8266:8268
+2	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	TokenRange=8269:8271
+3	soeur	soeur	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	TokenRange=8272:8277
+4	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=8278:8282
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	TokenRange=8283:8286
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	TokenRange=8287:8290
+7	rentrée	rentrer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpacesAfter=\r\n|TokenRange=8291:8298
+
+1	et	et	CCONJ	_	_	4	cc	_	TokenRange=8435:8437
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=8438:8440
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=8440:8442
+4	dis	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=8443:8446
+5	donc	donc	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=8447:8451
+
+1	olala	olala	ADJ	_	_	5	nsubj	_	TokenRange=8559:8564
+2	et	et	CCONJ	_	_	3	cc	_	TokenRange=8565:8567
+3	dedans	dedans	ADV	_	_	1	conj	_	TokenRange=8568:8574
+4	y'	y'	PRON	_	Emph=No|Person=3|PronType=Prs	5	obl:mod	_	SpaceAfter=No|TokenRange=8575:8577
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8577:8578
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=8579:8581
+7	lumière	lumière	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpacesAfter=\r\n|TokenRange=8582:8589
+
+1	si	si	SCONJ	_	_	4	mark	_	TokenRange=8591:8593
+2	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=8594:8598
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=8599:8602
+4	rentrée	rentrer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=8603:8610
+5	aussi	aussi	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=8611:8616
+
+1	tout	tout	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	TokenRange=8618:8622
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=8623:8625
+3	monde	monde	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	TokenRange=8626:8631
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8632:8635
+5	à	à	ADP	_	_	7	case	_	TokenRange=8636:8637
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=8638:8640
+7	maison	maison	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	SpacesAfter=\r\n|TokenRange=8641:8647
+
+1	parce	parce	ADV	_	_	5	mark	_	TokenRange=8661:8666
+2	que	que	SCONJ	_	_	1	fixed	_	TokenRange=8667:8670
+3	là	là	ADV	_	_	5	advmod	_	TokenRange=8671:8673
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=8674:8676
+5	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8677:8679
+6	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=8680:8682
+7	éblouir	éblouir	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\r\n|TokenRange=8682:8689
+
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=8691:8695
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8696:8698
+3	avoir	avoir	VERB	_	VerbForm=Inf	2	xcomp	_	TokenRange=8699:8704
+4	froid	froid	NOUN	_	Gender=Masc|Number=Sing	3	obj:lvc	_	TokenRange=8705:8710
+5	en	en	ADP	_	_	6	mark	_	TokenRange=8711:8713
+6	rentrant	rentrer	VERB	_	Tense=Pres|VerbForm=Part	3	advcl	_	SpacesAfter=\r\n|TokenRange=8714:8722
+
+1	voilà	voilà	VERB	_	_	0	root	_	TokenRange=9598:9603
+2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	TokenRange=9604:9606
+3	fille	fille	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	TokenRange=9607:9612
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No|TokenRange=9613:9615
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=9615:9618
+6	bien	bien	ADV	_	_	1	advmod	_	SpacesAfter=\r\n|TokenRange=9619:9623
+
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=9673:9677
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	TokenRange=9678:9679
+3	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9680:9684
+4	être	être	AUX	_	VerbForm=Inf	5	aux:pass	_	TokenRange=9685:9689
+5	oublié	oublier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	SpacesAfter=\r\n|TokenRange=9690:9696
+
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	TokenRange=9698:9700
+2	ventile	ventiler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9701:9708
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=9709:9713
+4	prend	prendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	TokenRange=9714:9719
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No|TokenRange=9720:9722
+6	air	air	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\r\n|TokenRange=9722:9725
+
+1	non	non	ADV	_	Polarity=Neg	3	advmod	_	TokenRange=9808:9811
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=9812:9814
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9814:9816
+4	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	3	obj	_	SpacesAfter=\r\n|TokenRange=9817:9821
+
+1	alors	alors	ADV	_	_	2	advmod	_	TokenRange=10697:10702
+2	voilà	voilà	VERB	_	_	0	root	_	TokenRange=10703:10708
+3	et	et	CCONJ	_	_	4	cc	_	TokenRange=10709:10711
+4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=10712:10715
+5	donc	donc	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=10716:10720
+
+1	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	TokenRange=10722:10725
+2	te	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	3	iobj	_	TokenRange=10726:10728
+3	couvrent	couvrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=10729:10737
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	TokenRange=10738:10741
+5	oreilles	oreille	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\r\n|TokenRange=10742:10750
+
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	TokenRange=10752:10754
+2	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=10755:10762
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=10763:10765
+4	mois	mois	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	TokenRange=10766:10770
+5	quoi	quoi	PRON	_	PronType=Rel	2	obl:mod	_	SpacesAfter=\r\n|TokenRange=10771:10775
+
+1	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TokenRange=10890:10892
+2	les	eux	PRON	_	Emph=No|Number=Plur|Person=3|PronType=Prs	3	obj	_	TokenRange=10893:10896
+3	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=10897:10899
+4	sur	sur	ADP	_	_	6	case	_	TokenRange=10900:10903
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	TokenRange=10904:10907
+6	oreilles	oreille	NOUN	_	Gender=Fem|Number=Plur	3	obl:mod	_	SpacesAfter=\r\n|TokenRange=10908:10916
+
+1	oui	oui	INTJ	_	_	4	discourse	_	TokenRange=10918:10921
+2	mais	mais	CCONJ	_	_	4	cc	_	TokenRange=10922:10926
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=10927:10931
+4	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=10932:10937
+
+1	oui	oui	INTJ	_	_	4	discourse	_	TokenRange=10939:10942
+2	mais	mais	CCONJ	_	_	4	cc	_	TokenRange=10943:10947
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=10948:10952
+4	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=10953:10958
+5	de	de	ADP	_	_	7	case	_	TokenRange=10959:10961
+6	moins	moins	ADV	_	_	7	advmod	_	TokenRange=10962:10967
+7	loin	loin	ADV	_	_	4	advmod	_	SpacesAfter=\r\n|TokenRange=10968:10972
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=10997:10999
+2	m'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	obj	_	SpaceAfter=No|TokenRange=11000:11002
+3	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11002:11009
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	SpacesAfter=\r\n|TokenRange=11010:11013
+
+1	et	et	CCONJ	_	_	4	cc	_	TokenRange=11015:11017
+2	couillon	couillon	NOUN	_	Gender=Masc|Number=Sing	4	advcl	_	TokenRange=11018:11026
+3	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=11027:11029
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11030:11031
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	TokenRange=11032:11035
+6	de	un	DET	_	Definite=Ind|Number=Sing|PronType=Art	7	det	_	TokenRange=11036:11038
+7	temps	temps	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\r\n|TokenRange=11039:11044
+
+1	moi	moi	PRON	_	Emph=Yes|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	TokenRange=11167:11170
+2	aussi	aussi	ADV	_	_	1	advmod	_	TokenRange=11171:11176
+3	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=11177:11181
+4	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=11182:11187
+
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=11189:11193
+2	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11194:11199
+3	de	de	ADP	_	_	4	case	_	TokenRange=11200:11202
+4	Gironde	Gironde	PROPN	_	_	2	obl:arg	_	TokenRange=11203:11210
+5	sur	sur	ADP	_	_	6	case	_	TokenRange=11211:11214
+6	Drop	Drop	PROPN	_	_	2	obl:mod	_	TokenRange=11215:11219
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=11220:11222
+8	fille	fille	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	SpacesAfter=\r\n|TokenRange=11223:11228
+
+1	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	TokenRange=11230:11232
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11233:11235
+3	dire	dire	VERB	_	VerbForm=Inf	2	xcomp	_	TokenRange=11236:11240
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	SpacesAfter=\r\n|TokenRange=11241:11243
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=11350:11352
+2	t'	toi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=11353:11355
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	TokenRange=11355:11356
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	TokenRange=11357:11360
+5	appelé	appeler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=11361:11367
+6	de	de	ADP	_	_	8	case	_	TokenRange=11368:11370
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=11371:11373
+8	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	SpacesAfter=\r\n|TokenRange=11374:11381
+
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=11983:11985
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11986:11990
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	TokenRange=11991:11994
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No|TokenRange=11995:11997
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=11997:12000
+6	compliqué	compliquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	SpacesAfter=\r\n|TokenRange=12001:12010
+
+1	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|TokenRange=12012:12014
+2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12014:12016
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=12017:12020
+4	boite	boite	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	TokenRange=12021:12026
+5	encore	encore	ADV	_	_	2	advmod	_	SpacesAfter=\r\n|TokenRange=12027:12033
+
+1	ok	ok	INTJ	_	_	5	advmod	_	TokenRange=12105:12107
+2	et	et	CCONJ	_	_	3	cc	_	TokenRange=12108:12110
+3	après	après	ADV	_	_	1	conj	_	TokenRange=12111:12116
+4	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	TokenRange=12117:12119
+5	ira	aler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=12120:12123
+6	chercher	chercher	VERB	_	VerbForm=Inf	5	xcomp	_	TokenRange=12124:12132
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=12133:12135
+8	peinture	peinture	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpacesAfter=\r\n|TokenRange=12136:12144
+
+1	oui	oui	INTJ	_	_	5	discourse	_	TokenRange=12231:12234
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=12235:12237
+3	m'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	expl:pv	_	SpaceAfter=No|TokenRange=12238:12240
+4	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	5	iobj	_	TokenRange=12240:12242
+5	souviens	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=12243:12251
+
+1	mais	mais	CCONJ	_	_	3	cc	_	TokenRange=12283:12287
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=12288:12290
+3	viendrai	veir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=12291:12299
+4	avec	avec	ADP	_	_	5	case	_	TokenRange=12300:12304
+5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	3	obl:arg	_	TokenRange=12305:12309
+6	à	à	ADP	_	_	8	case	_	TokenRange=12310:12311
+7	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	TokenRange=12312:12314
+8	moment	moment	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	TokenRange=12315:12321
+9	là	là	ADV	_	_	3	advmod	_	SpacesAfter=\r\n|TokenRange=12322:12324
+
+1	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TokenRange=12393:12395
+2	m'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	iobj	_	SpaceAfter=No|TokenRange=12396:12398
+3	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	TokenRange=12398:12400
+4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12401:12404
+5	que	que	SCONJ	_	_	6	mark	_	TokenRange=12405:12408
+6	oui	oui	ADV	_	_	4	discourse	_	SpacesAfter=\r\n|TokenRange=12409:12412
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	TokenRange=12476:12478
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12479:12483
+3	que	que	SCONJ	_	_	5	mark	_	TokenRange=12484:12487
+4	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=12488:12490
+5	aille	aler	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	TokenRange=12490:12495
+6	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=12496:12498
+7	faire	faire	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\r\n|TokenRange=12499:12504
+
+1	et	et	CCONJ	_	_	3	cc	_	TokenRange=12506:12508
+2	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TokenRange=12509:12511
+3	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12512:12516
+4	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	5	iobj	_	TokenRange=12517:12518
+5	aller	aller	VERB	_	VerbForm=Inf	3	xcomp	_	TokenRange=12519:12524
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	TokenRange=12525:12528
+7	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	TokenRange=12529:12534
+8	mardi	mardi	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	TokenRange=12535:12540
+9	matin	matin	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpacesAfter=\r\n|TokenRange=12541:12546
+
+1	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TokenRange=12895:12897
+2	matin	matin	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	TokenRange=12898:12903
+3	quand	quand	SCONJ	_	_	5	mark	_	TokenRange=12904:12909
+4	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=12910:12912
+5	descends	descendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=12913:12921
+6	aller	aller	VERB	_	VerbForm=Inf	5	xcomp	_	TokenRange=12922:12927
+7	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	TokenRange=12928:12930
+8	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	obj	_	TokenRange=12931:12933
+9	mouche	moucher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=12934:12940
+
+1	quelle	quel	DET	_	Gender=Fem|Number=Sing|PronType=Int	2	det	_	TokenRange=13032:13038
+2	heure	heure	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	TokenRange=13039:13044
+3	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TokenRange=13045:13047
+4	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\r\n|TokenRange=13048:13050
+
+1	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=13280:13283
+2	viennent	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=13284:13292
+3	parce	parce	ADV	_	_	8	mark	_	TokenRange=13293:13298
+4	que	que	SCONJ	_	_	3	fixed	_	TokenRange=13299:13302
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=13303:13305
+6	femme	femme	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	TokenRange=13306:13311
+7	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	TokenRange=13312:13316
+8	accouché	accoucher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	SpacesAfter=\r\n|TokenRange=13317:13325
+
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=13774:13776
+2	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=13777:13786
+3	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	TokenRange=13787:13791
+4	être	être	VERB	_	VerbForm=Inf	3	cop	_	SpacesAfter=\r\n|TokenRange=13792:13796
+
+1	dis	dire	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=13798:13801
+2	donc	donc	ADV	_	_	6	advmod	_	TokenRange=13802:13806
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No|TokenRange=13807:13809
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=13809:13812
+5	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	TokenRange=13813:13817
+6	problème	problème	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	SpacesAfter=\r\n|TokenRange=13818:13826
+
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	TokenRange=14444:14446
+2	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	obj	_	TokenRange=14447:14449
+3	gène	mener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=14450:14454
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	SpacesAfter=\r\n|TokenRange=14455:14458
+
+1	non	non	ADV	_	Polarity=Neg	5	advmod	_	TokenRange=15375:15378
+2	mais	mais	CCONJ	_	_	1	fixed	_	TokenRange=15379:15383
+3	merde	merdre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=15384:15389
+4	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	TokenRange=15390:15392
+5	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=15393:15396
+6	être	être	AUX	_	VerbForm=Inf	7	aux:pass	_	TokenRange=15397:15401
+7	embêté	embêter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	SpacesAfter=\r\n|TokenRange=15402:15408
+
+1	après	après	ADP	_	_	3	advmod	_	TokenRange=15611:15616
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=15617:15619
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=15620:15624
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	SpacesAfter=\r\n|TokenRange=15625:15628
+
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=16205:16207
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=16208:16212
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	TokenRange=16213:16216
+4	mais	mais	CCONJ	_	_	7	cc	_	TokenRange=16217:16221
+5	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=16222:16224
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	TokenRange=16225:16226
+7	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	TokenRange=16227:16232
+8	venir	venir	VERB	_	VerbForm=Inf	7	xcomp	_	SpacesAfter=\r\n|TokenRange=16233:16238
+
+1	et	et	CCONJ	_	_	6	cc	_	TokenRange=16578:16580
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|TokenRange=16581:16583
+3	autre	autre	PRON	_	Number=Sing|Person=3|PronType=Ind	6	nsubj	_	TokenRange=16583:16588
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	TokenRange=16589:16591
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	TokenRange=16592:16595
+6	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	TokenRange=16596:16600
+7	là	là	ADV	_	_	6	advmod	_	TokenRange=16601:16603
+8	avant	avant	ADP	_	_	9	case	_	TokenRange=16604:16609
+9	hier	hier	ADV	_	_	6	advmod	_	SpacesAfter=\r\n|TokenRange=16610:16614
+
+1	et	et	CCONJ	_	_	6	cc	_	TokenRange=16689:16691
+2	donc	donc	ADV	_	_	6	advmod	_	TokenRange=16692:16696
+3	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=16697:16699
+4	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=16700:16702
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	TokenRange=16702:16704
+6	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\r\n|TokenRange=16705:16707
+
+1	ou	ou	CCONJ	_	_	4	cc	_	TokenRange=16709:16711
+2	alors	alors	ADV	_	_	4	advmod	_	TokenRange=16712:16717
+3	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TokenRange=16718:16721
+4	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=16722:16726
+5	la	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=16727:16729
+6	couvrir	couvrir	VERB	_	VerbForm=Inf	4	xcomp	_	TokenRange=16730:16737
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=16738:16740
+8	piscine	piscine	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpacesAfter=\r\n|TokenRange=16741:16748
+
+1	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	TokenRange=16881:16883
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=16884:16885
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	TokenRange=16886:16889
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|TokenRange=16890:16892
+5	électricité	électricité	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpacesAfter=\r\n|TokenRange=16892:16903
+
+1	maintenant	maintenant	ADV	_	_	5	advmod	_	TokenRange=17487:17497
+2	après	après	ADP	_	_	3	case	_	TokenRange=17498:17503
+3	dedans	dedans	ADV	_	_	5	advmod	_	TokenRange=17504:17510
+4	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=17511:17513
+5	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=17514:17518
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	TokenRange=17519:17522
+7	là	là	ADV	_	_	5	advmod	_	SpacesAfter=\r\n|TokenRange=17523:17525
+
+1	mais	mais	CCONJ	_	_	3	cc	_	TokenRange=17846:17850
+2	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	TokenRange=17851:17854
+3	pouvaient	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=17855:17864
+4	passer	passer	VERB	_	VerbForm=Inf	3	xcomp	_	TokenRange=17865:17871
+5	par	par	ADP	_	_	7	case	_	TokenRange=17872:17875
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=17876:17878
+7	porte	porte	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	SpacesAfter=\r\n|TokenRange=17879:17884
+
